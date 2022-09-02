@@ -22,7 +22,7 @@ const Contact = () => {
                 <BsGithub />
               </a>
               <a
-                href="https://drive.google.com/file/d/1_7_L5H3YdXxGQop-5DcYXwxdmv5lTKA9/view?usp=sharing"
+                href="https://drive.google.com/file/d/1N7FHeZweJmCY3QvD6ApA-c4grWc9-gac/view?usp=sharing"
                 target="_blank"
               >
                 <IoDocumentTextSharp /> CV
